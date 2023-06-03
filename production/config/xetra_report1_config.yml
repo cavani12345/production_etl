@@ -1,0 +1,26 @@
+# configuration specific to connection to s3
+
+s3:
+  access_key: 'ACCESS_KEY_ID'
+  secret_key: 'ACCESS_KEY_SECRET_KEY'
+  src_endpoint_url: 'src_endpoint_url'
+  src_bucket: 'src_bucket'
+  trg_endpoint_url: 'trgt_endpoint_url'
+  trg_bucket: 'trgt_bucket'
+
+# configuration specific to logging 
+logging:
+  version: 1
+  formatters:
+    xetra:
+      format: '{"processing_time": "%(asctime)s", "level_name": "%(levelname)s", "message": "%(message)s"}'
+  handlers:
+    file_handler:
+      class: logging.FileHandler
+      filename: 'production/loggs/logs.json'
+      formatter: xetra
+      level: DEBUG
+      encoding: utf-8
+  root:
+    level: DEBUG
+    handlers: [file_handler]
