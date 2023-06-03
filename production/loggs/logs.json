@@ -1,0 +1,29 @@
+
+{"processing_time": "2023-06-02 21:23:22,988", "level_name": "INFO", "message": "Xetra ETL job started."}
+{"processing_time": "2023-06-02 21:25:02,482", "level_name": "INFO", "message": "Xetra ETL job finished."}
+{"processing_time": "2023-06-02 23:31:16,780", "level_name": "INFO", "message": "Xetra ETL job started."}
+{"processing_time": "2023-06-02 23:31:18,336", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR00.csv"}
+{"processing_time": "2023-06-02 23:31:18,671", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR01.csv"}
+{"processing_time": "2023-06-02 23:31:18,984", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR02.csv"}
+{"processing_time": "2023-06-02 23:31:19,305", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR03.csv"}
+{"processing_time": "2023-06-02 23:31:19,644", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR04.csv"}
+{"processing_time": "2023-06-02 23:31:19,957", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR05.csv"}
+{"processing_time": "2023-06-02 23:31:20,292", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR06.csv"}
+{"processing_time": "2023-06-02 23:31:20,605", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR07.csv"}
+{"processing_time": "2023-06-02 23:31:20,941", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR08.csv"}
+{"processing_time": "2023-06-02 23:31:23,097", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR09.csv"}
+{"processing_time": "2023-06-02 23:31:24,127", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR10.csv"}
+{"processing_time": "2023-06-02 23:31:25,044", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR11.csv"}
+{"processing_time": "2023-06-02 23:31:26,755", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR12.csv"}
+{"processing_time": "2023-06-02 23:31:27,912", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR13.csv"}
+{"processing_time": "2023-06-02 23:31:28,782", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR14.csv"}
+{"processing_time": "2023-06-02 23:31:29,910", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR15.csv"}
+{"processing_time": "2023-06-02 23:31:30,964", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR16.csv"}
+{"processing_time": "2023-06-02 23:31:31,827", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR17.csv"}
+{"processing_time": "2023-06-02 23:31:32,146", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR18.csv"}
+{"processing_time": "2023-06-02 23:31:32,472", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR19.csv"}
+{"processing_time": "2023-06-02 23:31:32,793", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR20.csv"}
+{"processing_time": "2023-06-02 23:31:33,153", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR21.csv"}
+{"processing_time": "2023-06-02 23:31:33,481", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR22.csv"}
+{"processing_time": "2023-06-02 23:31:33,809", "level_name": "INFO", "message": "Readinf File src_endpoint_url/s3.Bucket(name='rowdataset')/2022-01-31/2022-01-31_BINS_XETR23.csv"}
+{"processing_time": "2023-06-02 23:31:49,748", "level_name": "INFO", "message": "Xetra ETL job finished."}
